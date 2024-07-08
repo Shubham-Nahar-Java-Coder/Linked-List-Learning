@@ -13,8 +13,11 @@ public class Main {
 
         myList.printList();
 
-        System.out.println("2nd Kth Element from end " +myList.findKthFromEnd(2).value);
+        System.out.println("2nd Kth Element From End " +myList.findKthFromEnd(2).value);
 
-        System.out.println("4th Kth Element from End: "+myList.findKthFromEnd(4).value);
+        System.out.println("4th Kth Element From End: "+myList.findKthFromEnd(4).value);
+
+        System.out.println("Outside kth Element From End: "+myList.findKthFromEnd(7));
+
     }   
 }
