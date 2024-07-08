@@ -77,6 +77,8 @@ public class HasLoop {
         length++;
     }
 
+    // Check if the LinkedList has a Loop
+
     public boolean hasLoop(){
         Node slow = head;
         Node fast = head;
