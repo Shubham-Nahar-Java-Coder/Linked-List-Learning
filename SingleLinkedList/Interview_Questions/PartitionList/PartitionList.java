@@ -1,4 +1,4 @@
-package Interview_Questions.PartitionList;
+package SingleLinkedList.Interview_Questions.PartitionList;
 
 public class PartitionList {
 

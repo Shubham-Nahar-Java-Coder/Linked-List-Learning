@@ -1,4 +1,4 @@
-package Interview_Questions.FindKthFromEnd;
+package SingleLinkedList.Interview_Questions.FindKthFromEnd;
 
 public class Main {
 

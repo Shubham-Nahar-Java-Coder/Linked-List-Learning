@@ -1,4 +1,4 @@
-package Interview_Questions.FindMiddleNode;
+package SingleLinkedList.Interview_Questions.FindMiddleNode;
 
 public class Main{
     public static void main(String[] args) {

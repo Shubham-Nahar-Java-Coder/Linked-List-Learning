@@ -1,4 +1,4 @@
-package Interview_Questions.HasLoop;
+package SingleLinkedList.Interview_Questions.HasLoop;
 
 public class Main{
     public static void main(String[] args) {
