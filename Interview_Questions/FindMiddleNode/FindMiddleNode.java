@@ -1,4 +1,4 @@
-package Interview_Questions;
+package Interview_Questions.FindMiddleNode;
 
 public class FindMiddleNode {
 
@@ -68,6 +68,8 @@ public class FindMiddleNode {
         }
     }
 
+    // Find Middle Node Value
+    
     public Node findMiddleNode(){
         Node slow = head;
         Node fast = head;
